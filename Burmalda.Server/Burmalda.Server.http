@@ -1,0 +1,6 @@
+@Burmalda.Server_HostAddress = http://localhost:5274
+
+GET {{Burmalda.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
